@@ -133,7 +133,7 @@ ol {
   border: 1px solid #fff;
 }
 
-.search-form__checkbox:checked + .search-form__pseudo-checkbox::after {
+.search-form__checkbox:checked+.search-form__pseudo-checkbox::after {
   content: " ";
   inline-size: 15px;
   block-size: 15px;
