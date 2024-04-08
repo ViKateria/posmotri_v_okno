@@ -170,7 +170,6 @@ input::placeholder {
   border: 1px solid currentColor;
   min-block-size: 34px;
   padding: 6px;
- /* margin: 2px; */
 }
 
 .button:hover {
